@@ -28,3 +28,37 @@ Here are some ideas to get you started:
 	<a href="https://stackoverflow.com/users/13885192/dinesh"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/stackoverflow.png"></a>&nbsp; &nbsp; 
 	<a href="https://api.whatsapp.com/send?phone=+918106313275"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/whatsapp.png"></a>
 </div>
+
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#999999">
+	<tr>
+		<td width="50%">
+			<table width="100%" cellspacing="2" cellpadding="0" border="0">
+				<tr>
+					<td align="center"><b>Education</b></td>
+				</tr>
+				<tr bgcolor="#fff">
+					<td><font size="3"><b>B-Tech - </b>Anil Neerukonda Institute of Technology and Sciences(2017-2021) - (CGPA - 8.69)</font></td>
+				</tr>
+				<tr bgcolor="#fff">
+					<td><font size="3"><b>Intermediate - </b>Narayana Junior College(2015 - 2017) - (Percentage - 97.4%)</font></td>
+				</tr>
+				<tr bgcolor="#fff">
+					<td><font size="3"><b>SSC - </b>Ravindra Bharathi School(2014 - 2015) - (CGPA - 9.3)</font></td>
+				</tr>
+			</table>
+		</td>
+		<td width="50%">
+			<table width="100%" cellspacing="2" cellpadding="0" border="0">
+				<tr bgcolor="#fff">
+					<td width="50%" height="67"></td>
+					<td width="50%">HTML table borders without CSS</td>
+				</tr>
+				<tr bgcolor="#ffffff">
+					<td height="67">cellspacing="2"</td>
+					<td>&nbsp;</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
