@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">Dinesh Somaraju</div>
+
+<div align="center">
+  <a target="_blank" id="facebook"><img src="icons/facebook.png"></a>
+</div>
