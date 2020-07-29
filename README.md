@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<div class="icon-item icon_left"><a target="_blank" id="facebook"><img src="icons/facebook.png"></a></div>
+<center>Dinesh Somaraju</center>
