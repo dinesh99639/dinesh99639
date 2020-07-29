@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <div align="center">Dinesh Somaraju</div>
 
 <div align="center">
-  <a href="https://www.facebook.com" target="_blank" id="facebook"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/facebook.png"></a>
+  [link]("https://google.com"){:target="_blank"}<img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/facebook.png">
 </div>
