@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<center>Dinesh Somaraju</center>
+<div style="text-align: center;">Dinesh Somaraju</div>
