@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 	<a href="https://api.whatsapp.com/send?phone=+918106313275"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/whatsapp.png"></a>
 </div>
 
+<br>
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#999999">
 	<tr>
@@ -50,13 +51,17 @@ Here are some ideas to get you started:
 		</td>
 		<td width="50%">
 			<table width="100%" cellspacing="2" cellpadding="0" border="0">
-				<tr bgcolor="#fff">
-					<td width="50%" height="67"></td>
-					<td width="50%">HTML table borders without CSS</td>
+				<tr>
+					<td align="center"><b>Skills</b></td>
 				</tr>
-				<tr bgcolor="#ffffff">
-					<td height="67">cellspacing="2"</td>
-					<td>&nbsp;</td>
+				<tr bgcolor="#fff">
+					<td><font size="3"><b>Programming Languages - </b>C, C++, Java and Python</font></td>
+				</tr>
+				<tr bgcolor="#fff">
+					<td><font size="3"><b>Web Development - </b>HTML, CSS,  JavaScript, jQuery, AJAX, BootStrap, PHP, MySQL</font></td>
+				</tr>
+				<tr bgcolor="#fff">
+					<td><font size="3"><b>Data Analysis - </b>Machine Learning and Data Science</font></td>
 				</tr>
 			</table>
 		</td>
