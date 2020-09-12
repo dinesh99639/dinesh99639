@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 <br>
 
+<!-- 
 <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#999999">
 	<tr>
 		<td width="50%">
@@ -67,3 +68,4 @@ Here are some ideas to get you started:
 		</td>
 	</tr>
 </table>
+-->
