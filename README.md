@@ -71,5 +71,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![Dinesh's github stats](https://github-readme-stats.vercel.app/api?username=dinesh99639&count_private=true&show_icons=true&line_height=20)]()
+[![Dinesh's github stats](https://github-readme-stats.vercel.app/api?username=dinesh99639&count_private=true&show_icons=true&line_height=18&custom_title=Github%20Stats)]()
 [![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh99639&layout=compact)]()
