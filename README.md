@@ -1,12 +1,7 @@
----
-name: Science
----
-Today we are going to study {{page.name}}.
 
+<h3 align="center"><b>Dinesh Somaraju</b></h3><hr/>
 
-<div style="font-size: 23px" align="center"><b>Dinesh Somaraju</b></div><br />
-
-<div align="center"><h3>My Skillset</h3></div><br />
+<div align="center"><h3>My Skillset</h3></div><br/>
 <div align="center" style="display: flex; justify-content: space-between;">
 	<img width="50px" src="./icons/skills/html.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
