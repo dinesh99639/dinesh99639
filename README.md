@@ -1,6 +1,6 @@
 <div align="center"><b>Dinesh Somaraju</b></div><br>
 
-<img width="60px" src="./icons/skills/html.svg">
+<img width="60px" color="white" src="./icons/skills/html.svg">
 
 <div align="center">
 	<a href="https://twitter.com/DineshSomaraju"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/twitter.png"></a>&nbsp; &nbsp;
