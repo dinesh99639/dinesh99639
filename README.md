@@ -1,6 +1,7 @@
 <div style="font-size: 23px" align="center"><b>Dinesh Somaraju</b></div><br />
 
-<center style="display: flex;">
+<center><h3>My Skillset</h3></center><br />
+<center style="display: flex; flex-direction: row;">
 	<img width="50px" style="margin: auto" src="./icons/skills/html.svg">
 	<img width="50px" style="margin: auto" src="./icons/skills/js.svg">
 	<img width="80px" style="margin: auto" src="./icons/skills/node.svg">
@@ -8,6 +9,8 @@
 
 </center>
 <br />
+
+<center><h3>Connect to me</h3></center><br />
 
 <div align="center">
 	<a href="https://twitter.com/DineshSomaraju"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/twitter.png"></a>&nbsp; &nbsp;
