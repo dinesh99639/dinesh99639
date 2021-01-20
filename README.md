@@ -90,7 +90,6 @@
 
 
 [![Dinesh's github stats][statistics]]()
-<!-- [![Dinesh's github stats][statistics][statistics]]() -->
 [![Most Languages Used][mostUsedLanguages]]()
 
 
