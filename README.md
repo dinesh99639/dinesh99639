@@ -1,7 +1,6 @@
 
 <h3 align="center"><b>Dinesh Somaraju</b></h3>
-<div style="height: 2px; background-color: #30363d; margin: 10px 0"></div>
-<!-- <hr height="2px !important"/> -->
+<hr/>
 
 <div align="center"><h3>My Skillset</h3></div><br/>
 <div align="center" style="display: flex; justify-content: space-between;">
