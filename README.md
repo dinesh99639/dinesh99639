@@ -84,8 +84,11 @@
 -->
 
 
-[![Dinesh's github stats](https://github-readme-stats.vercel.app/api?username=dinesh99639&count_private=true&show_icons=true&line_height=20&custom_title=Github%20Stats)]()
+[![Dinesh's github stats][statistics]]()
+<!-- [![Dinesh's github stats][statistics][statistics]]() -->
 [![Most Languages Used][mostUsedLanguages]]()
 
+
+[statistics]: https://github-readme-stats.vercel.app/api?username=dinesh99639&count_private=true&show_icons=true&line_height=20&custom_title=Github%20Stats
 
 [mostUsedLanguages]: https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh99639&layout=compact
