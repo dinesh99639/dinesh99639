@@ -1,5 +1,5 @@
 
-<h3 align="center"><b>Dinesh Somaraju</b></h3><hr/>
+<h3 height="2px" align="center"><b>Dinesh Somaraju</b></h3><hr/>
 
 <div align="center"><h3>My Skillset</h3></div><br/>
 <div align="center" style="display: flex; justify-content: space-between;">
