@@ -8,10 +8,13 @@ Today we are going to study {{page.name}}.
 
 <div align="center"><h3>My Skillset</h3></div><br />
 <div align="center" style="display: flex; justify-content: space-between;">
-	<img width="50px" style="margin-left: 30px" src="./icons/skills/html.svg">
-	<img width="50px" style="margin-left: 30px" src="./icons/skills/js.svg">
-	<img width="80px" style="margin-left: 30px" src="./icons/skills/node.svg">
-	<img width="50px" style="margin-left: 30px" src="./icons/skills/react.svg">
+	<img width="50px" src="./icons/skills/html.svg">
+	&nbsp;&nbsp;&nbsp;
+	<img width="50px" src="./icons/skills/js.svg">
+	&nbsp;&nbsp;&nbsp;
+	<img width="80px" src="./icons/skills/node.svg">
+	&nbsp;&nbsp;&nbsp;
+	<img width="50px" src="./icons/skills/react.svg">
 
 </div>
 <br />
