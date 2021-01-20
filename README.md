@@ -9,9 +9,9 @@
 
 </div>
 <br />
-
+<!-- Hello how are you -->
 <table style="width: 100%">
-	<tbody style="width: 100%">
+	<tbody style="width: 100% !important">
 		<tr style="width: 100%">
 			<td>
 				<img width="50px" style="margin: auto" src="./icons/skills/html.svg">
