@@ -1,7 +1,7 @@
 <div style="font-size: 23px" align="center"><b>Dinesh Somaraju</b></div><br />
 
 <div align="center"><h3>My Skillset</h3></div><br />
-<div align="center" style="display: flex; flex-direction: row;">
+<div align="center" style="display: flex; justify-content: center;">
 	<img width="50px" style="margin: auto" src="./icons/skills/html.svg">
 	<img width="50px" style="margin: auto" src="./icons/skills/js.svg">
 	<img width="80px" style="margin: auto" src="./icons/skills/node.svg">
