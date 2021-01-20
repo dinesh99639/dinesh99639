@@ -1,16 +1,16 @@
 <div style="font-size: 23px" align="center"><b>Dinesh Somaraju</b></div><br />
 
-<center><h3>My Skillset</h3></center><br />
-<center style="display: flex; flex-direction: row;">
+<div align="center"><h3>My Skillset</h3></div><br />
+<div align="center" style="display: flex; flex-direction: row;">
 	<img width="50px" style="margin: auto" src="./icons/skills/html.svg">
 	<img width="50px" style="margin: auto" src="./icons/skills/js.svg">
 	<img width="80px" style="margin: auto" src="./icons/skills/node.svg">
 	<img width="50px" style="margin: auto" src="./icons/skills/react.svg">
 
-</center>
+</div>
 <br />
 
-<center><h3>Connect to me</h3></center><br />
+<div align="center"><h3>Connect to me</h3></div><br />
 
 <div align="center">
 	<a href="https://twitter.com/DineshSomaraju"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/twitter.png"></a>&nbsp; &nbsp;
