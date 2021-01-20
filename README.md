@@ -1,7 +1,7 @@
 <div style="font-size: 23px" align="center"><b>Dinesh Somaraju</b></div><br />
 
 <div align="center"><h3>My Skillset</h3></div><br />
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: space-between;">
 	<img width="50px" style="margin: auto" src="./icons/skills/html.svg">
 	<img width="50px" style="margin: auto" src="./icons/skills/js.svg">
 	<img width="80px" style="margin: auto" src="./icons/skills/node.svg">
@@ -9,6 +9,23 @@
 
 </div>
 <br />
+
+<table style="width: 100%">
+	<tr style="width: 100%">
+		<td>
+			<img width="50px" style="margin: auto" src="./icons/skills/html.svg">
+		</td>
+		<td>
+			<img width="50px" style="margin: auto" src="./icons/skills/js.svg">
+		</td>
+		<td>
+			<img width="80px" style="margin: auto" src="./icons/skills/node.svg">
+		</td>
+		<td class="rightalign">
+			<img width="50px" style="margin: auto" src="./icons/skills/react.svg">
+		</td>
+	</tr>
+</table>
 
 <div align="center"><h3>Connect to me</h3></div><br />
 
