@@ -86,3 +86,45 @@
 
 [![Dinesh's github stats](https://github-readme-stats.vercel.app/api?username=dinesh99639&count_private=true&show_icons=true&line_height=20&custom_title=Github%20Stats)]()
 [![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh99639&layout=compact)]()
+
+
+
+### Zebra Striping {#zebra-striping}
+
+<style>
+.skills td  {
+  /* background: #eee; */
+  /* width: 100%; */
+  /* border: none; */
+  text-align: center;
+}
+</style>
+
+<div class="ox-hugo-table skills sane-table">
+<div class="table-caption">
+  <span class="table-number">Table 10</span>:
+  Table with zebra striping
+</div>
+
+<table style="width: 100%">
+	<tbody style="width: 100% !important">
+		<tr style="width: 100%">
+			<td>
+				<img width="50px" style="margin: auto" src="./icons/skills/html.svg">
+			</td>
+			<td>
+				<img width="50px" style="margin: auto" src="./icons/skills/js.svg">
+			</td>
+			<td>
+				<img width="80px" style="margin: auto" src="./icons/skills/node.svg">
+			</td>
+			<td class="rightalign">
+				<img width="50px" style="margin: auto" src="./icons/skills/react.svg">
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+</div>
+
+
