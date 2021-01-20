@@ -11,20 +11,22 @@
 <br />
 
 <table style="width: 100%">
-	<tr style="width: 100%">
-		<td>
-			<img width="50px" style="margin: auto" src="./icons/skills/html.svg">
-		</td>
-		<td>
-			<img width="50px" style="margin: auto" src="./icons/skills/js.svg">
-		</td>
-		<td>
-			<img width="80px" style="margin: auto" src="./icons/skills/node.svg">
-		</td>
-		<td class="rightalign">
-			<img width="50px" style="margin: auto" src="./icons/skills/react.svg">
-		</td>
-	</tr>
+	<tbody style="width: 100%">
+		<tr style="width: 100%">
+			<td>
+				<img width="50px" style="margin: auto" src="./icons/skills/html.svg">
+			</td>
+			<td>
+				<img width="50px" style="margin: auto" src="./icons/skills/js.svg">
+			</td>
+			<td>
+				<img width="80px" style="margin: auto" src="./icons/skills/node.svg">
+			</td>
+			<td class="rightalign">
+				<img width="50px" style="margin: auto" src="./icons/skills/react.svg">
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 <div align="center"><h3>Connect to me</h3></div><br />
