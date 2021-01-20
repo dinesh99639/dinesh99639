@@ -1,15 +1,21 @@
+---
+name: Science
+---
+Today we are going to study {{page.name}}.
+
+
 <div style="font-size: 23px" align="center"><b>Dinesh Somaraju</b></div><br />
 
 <div align="center"><h3>My Skillset</h3></div><br />
 <div align="center" style="display: flex; justify-content: space-between;">
-	<img width="50px" style="margin: auto" src="./icons/skills/html.svg">
-	<img width="50px" style="margin: auto" src="./icons/skills/js.svg">
-	<img width="80px" style="margin: auto" src="./icons/skills/node.svg">
-	<img width="50px" style="margin: auto" src="./icons/skills/react.svg">
+	<img width="50px" style="margin: auto 30px" src="./icons/skills/html.svg">
+	<img width="50px" style="margin: auto 30px" src="./icons/skills/js.svg">
+	<img width="80px" style="margin: auto 30px" src="./icons/skills/node.svg">
+	<img width="50px" style="margin: auto 30px" src="./icons/skills/react.svg">
 
 </div>
 <br />
-<!-- Hello how are you -->
+<!-- Hello how are you
 <table style="width: 100%">
 	<tbody style="width: 100% !important">
 		<tr style="width: 100%">
@@ -27,7 +33,7 @@
 			</td>
 		</tr>
 	</tbody>
-</table>
+</table> -->
 
 <div align="center"><h3>Connect to me</h3></div><br />
 
@@ -92,3 +98,4 @@
 [statistics]: https://github-readme-stats.vercel.app/api?username=dinesh99639&count_private=true&show_icons=true&line_height=20&custom_title=Github%20Stats
 
 [mostUsedLanguages]: https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh99639&layout=compact
+
