@@ -14,25 +14,6 @@
 
 </div>
 <br />
-<!-- Hello how are you
-<table style="width: 100%">
-	<tbody style="width: 100% !important">
-		<tr style="width: 100%">
-			<td>
-				<img width="50px" style="margin: auto" src="./icons/skills/html.svg">
-			</td>
-			<td>
-				<img width="50px" style="margin: auto" src="./icons/skills/js.svg">
-			</td>
-			<td>
-				<img width="80px" style="margin: auto" src="./icons/skills/node.svg">
-			</td>
-			<td class="rightalign">
-				<img width="50px" style="margin: auto" src="./icons/skills/react.svg">
-			</td>
-		</tr>
-	</tbody>
-</table> -->
 
 <div align="center"><h3>Connect to me</h3></div><br />
 
@@ -47,46 +28,7 @@
 	<a href="https://api.whatsapp.com/send?phone=+918106313275"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/whatsapp.png"></a>
 </div>
 
-<br>
-
-<!-- 
-<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#999999">
-	<tr>
-		<td width="50%">
-			<table width="100%" cellspacing="2" cellpadding="0" border="0">
-				<tr>
-					<td align="center"><b>Education</b></td>
-				</tr>
-				<tr bgcolor="#fff">
-					<td><font size="3"><b>B-Tech - </b>Anil Neerukonda Institute of Technology and Sciences(2017-2021) - (CGPA - 8.69)</font></td>
-				</tr>
-				<tr bgcolor="#fff">
-					<td><font size="3"><b>Intermediate - </b>Narayana Junior College(2015 - 2017) - (Percentage - 97.4%)</font></td>
-				</tr>
-				<tr bgcolor="#fff">
-					<td><font size="3"><b>SSC - </b>Ravindra Bharathi School(2014 - 2015) - (CGPA - 9.3)</font></td>
-				</tr>
-			</table>
-		</td>
-		<td width="50%">
-			<table width="100%" cellspacing="2" cellpadding="0" border="0">
-				<tr>
-					<td align="center"><b>Skills</b></td>
-				</tr>
-				<tr bgcolor="#fff">
-					<td><font size="3"><b>Programming Languages - </b>C, C++, Java and Python</font></td>
-				</tr>
-				<tr bgcolor="#fff">
-					<td><font size="3"><b>Web Development - </b>HTML, CSS,  JavaScript, jQuery, AJAX, BootStrap, PHP, MySQL</font></td>
-				</tr>
-				<tr bgcolor="#fff">
-					<td><font size="3"><b>Data Analysis - </b>Machine Learning and Data Science</font></td>
-				</tr>
-			</table>
-		</td>
-	</tr>
-</table>
--->
+<br/>
 
 
 [![Dinesh's github stats][statistics]]()
