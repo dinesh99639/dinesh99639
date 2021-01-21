@@ -93,10 +93,8 @@
 [![Most Languages Used][mostUsedLanguages]]()
 
 
-<!-- [statistics]: https://github-readme-stats.vercel.app/api?username=dinesh99639&count_private=true&show_icons=true&line_height=20&custom_title=Github%20Stats&theme=tokyonight&hide_border=true&icon_color=#fff -->
-
 [statistics]: https://githubstatistics.vercel.app/api?username=dinesh99639&count_private=true&show_icons=true&line_height=20&custom_title=Github%20Stats&hide_border=true&bg_color=0d1117&text_color=FFFFFF
-<!-- &icon_color=586069&title_color=70a5fd -->
+
 
 [mostUsedLanguages]: https://githubstatistics.vercel.app/api/top-langs/?username=dinesh99639&layout=compact&hide_border=true&bg_color=0d1117&text_color=FFFFFF
 
