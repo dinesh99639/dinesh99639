@@ -23,7 +23,7 @@
 	<a href="https://www.instagram.com/dinesh99639/"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/instagram.png"></a>&nbsp; &nbsp;
 	<a href="https://www.facebook.com/dinesh.somaraju.7"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/facebook.png"></a>&nbsp; &nbsp;
 	<a href="mailto:dinesh99639@gmail.com"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/gmail.png"></a>&nbsp; &nbsp;
-	<a href="https://github.com/dinesh99639"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/github.png"></a>&nbsp; &nbsp;
+	<a href="https://github.com/dinesh99639"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg"></a>&nbsp; &nbsp;
 	<a href="https://stackoverflow.com/users/13885192/dinesh"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/stackoverflow.png"></a>&nbsp; &nbsp; 
 	<a href="https://api.whatsapp.com/send?phone=+918106313275"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/whatsapp.png"></a>
 </div>
