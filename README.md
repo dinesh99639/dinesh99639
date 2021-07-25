@@ -30,10 +30,10 @@
 
 <br/>
 
-
-[![Dinesh's github stats][statistics]]()
-[![Most Languages Used][mostUsedLanguages]]()
-
+<div align="center">
+	[![Dinesh's github stats][statistics]]()
+	[![Most Languages Used][mostUsedLanguages]]()
+</div>
 
 [statistics]: https://githubstatistics.vercel.app/api?username=dinesh99639&count_private=true&show_icons=true&line_height=20&custom_title=Github%20Stats&hide_border=true&bg_color=8282820f&text_color=2f80ed
 
