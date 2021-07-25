@@ -31,8 +31,6 @@
 <br/>
 
 
-<iframe src="https://dinesh99639.github.io/"></iframe>
-
 [![Dinesh's github stats][statistics]]()
 [![Most Languages Used][mostUsedLanguages]]()
 
