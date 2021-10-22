@@ -32,8 +32,8 @@
 
 <div id="statistics">
 	
-[![Dinesh's github stats][statistics]](#statistics)
-[![Most Languages Used][mostUsedLanguages]](#statistics)
+![Dinesh's github stats][statistics]
+![Most Languages Used][mostUsedLanguages]
 	
 </div>
 
