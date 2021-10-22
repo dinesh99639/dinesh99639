@@ -31,8 +31,10 @@
 <br/>
 
 <div id="statistics">
+	
 [![Dinesh's github stats][statistics]](#statistics)
 [![Most Languages Used][mostUsedLanguages]](#statistics)
+	
 </div>
 
 
