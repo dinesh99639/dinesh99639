@@ -3,15 +3,23 @@
 <hr/>
 
 <div align="center"><h3>My Skillset</h3></div><br/>
-<div align="center" style="display: flex; justify-content: space-between;">
-	<img width="50px" src="./icons/skills/html.svg">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+	<img width="45px" src="./icons/skills/HTML.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img width="50px" src="./icons/skills/js.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img width="80px" src="./icons/skills/node.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img width="50px" src="./icons/skills/react.svg">
+	
+</div>
+<br />
 
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+	<img height="40xp" src="./icons/skills/express.svg">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="80xp" src="./icons/skills/mongo.svg">
+	
 </div>
 <br />
 
