@@ -16,10 +16,9 @@
 <br />
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-	<img height="40xp" src="./icons/skills/express.svg">
+	<img height="40px" src="./icons/skills/express.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="80xp" src="./icons/skills/mongo.svg">
-	
+	<img height="40px" src="./icons/skills/mongo.svg">
 </div>
 <br />
 
