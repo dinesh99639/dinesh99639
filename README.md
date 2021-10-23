@@ -4,7 +4,7 @@
 
 <div align="center"><h3>My Skillset</h3></div><br/>
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-	<img width="45px" src="./icons/skills/html.svg">
+	<img width="45px" src="./icons/skills/HTML.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img width="50px" src="./icons/skills/JavaScript.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
