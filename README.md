@@ -45,7 +45,7 @@
 </div>
 
 
-[statistics]: https://githubstatistics.vercel.app/api?username=dinesh99639&count_private=true&show_icons=true&line_height=20&custom_title=Github%20Stats&hide_border=true&bg_color=8282820f&text_color=2f80ed
+[statistics]: https://githubstatistics.vercel.app/api?username=dinesh99639&count_private=true&include_all_commits=true&show_icons=true&line_height=20&custom_title=Github%20Stats&hide_border=true&bg_color=8282820f&text_color=2f80ed
 
 
 [mostUsedLanguages]: https://githubstatistics.vercel.app/api/top-langs/?username=dinesh99639&layout=compact&hide_border=true&bg_color=8282820f&text_color=2f80ed
