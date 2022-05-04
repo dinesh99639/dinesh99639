@@ -3,22 +3,21 @@
 <hr/>
 
 <div align="center"><h3>My Skillset</h3></div><br/>
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-	<img width="45px" src="./icons/skills/HTML.svg">
+<div align="center">
+	<img width="5%" src="./icons/skills/HTML.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="50px" src="./icons/skills/JavaScript.svg">
+	<img width="5.6%" src="./icons/skills/JavaScript.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="80px" src="./icons/skills/NodeJS.svg">
+	<img width="8.3%" src="./icons/skills/NodeJS.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="50px" src="./icons/skills/ReactJS.svg">
-	
+	<img width="6%" src="./icons/skills/ReactJS.svg">	
 </div>
 <br />
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-	<img height="40px" src="./icons/skills/ExpressJS.svg">
+	<img width="18%" src="./icons/skills/ExpressJS.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img height="40px" src="./icons/skills/MongoDB.svg">
+	<img width="18%" src="./icons/skills/MongoDB.svg">
 </div>
 <br />
 
