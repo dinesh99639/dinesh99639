@@ -4,13 +4,13 @@
 
 <div align="center"><h3>My Skillset</h3></div><br/>
 <div align="center">
-	<img width="5%" src="./icons/skills/HTML.svg">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="5.6%" src="./icons/skills/JavaScript.svg">
+	<img width="6%" src="./icons/skills/ReactJS.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img width="8.3%" src="./icons/skills/NodeJS.svg">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="6%" src="./icons/skills/ReactJS.svg">	
+	<img width="5%" src="./icons/skills/HTML.svg">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img width="5.6%" src="./icons/skills/JavaScript.svg">
 </div>
 <br />
 
